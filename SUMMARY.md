@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Getting Started](getting-started/README.md)
+  * [Authentication](getting-started/authentication.md)
+  * [API Endpoints](getting-started/api-endpoints.md)
+* [Endpoints](endpoints/README.md)
+  * [Companies](endpoints/companies.md)
+  * [Contacts](endpoints/contacts.md)
+  * [Tickets](endpoints/tickets.md)
+  * [Resources](endpoints/resources.md)
+* [Best Practices](best-practices/README.md)
+  * [Rate Limiting](best-practices/rate-limiting.md)
+  * [Error Handling](best-practices/error-handling.md)
+* [Examples](examples/README.md)
+  * [Code Samples](examples/code-samples.md)
